@@ -1,0 +1,1 @@
+Branch é uma linha do paralela usada para desenvolver novas funcionalidades
