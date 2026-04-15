@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Issues são os registros de tarefas a serem axecutadas no repositório.
+=======
+Issue são os registros de tarefas as serem executadas no repositório
+>>>>>>> 6ebec97e1d56950664399466c5a989a16b1ed406
