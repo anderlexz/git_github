@@ -1,1 +1,1 @@
-Issues são os registros de tarefas a serem axecutadas no repositório.
+Issue são os registros de tarefas as serem executadas no repositório
